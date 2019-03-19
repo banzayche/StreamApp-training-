@@ -1,0 +1,22 @@
+{
+  "name": "stream-app-training",
+  "version": "1.0.0",
+  "description": "just for training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banzayche/StreamApp-training-.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banzayche/StreamApp-training-/issues"
+  },
+  "homepage": "https://github.com/banzayche/StreamApp-training-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

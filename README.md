@@ -1,2 +1,3 @@
-# StreamApp-training-
-just for training
+# StreamApp-training
+
+Run `node index` to start server
